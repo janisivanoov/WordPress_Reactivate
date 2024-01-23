@@ -4,18 +4,16 @@
  *
  *
  * @package   WP-Reactivate
- * @author    Pangolin
+ * @author    janisivanoov
  * @license   GPL-3.0
- * @link      https://gopangolin.com
- * @copyright 2017 Pangolin (Pty) Ltd
+ * @link      https://github.com/janisivanoov/WordPress_Reactivate/
+ * @copyright 2024 janisivanoov
  *
  * @wordpress-plugin
  * Plugin Name:       WP-Reactivate
- * Plugin URI:        https://gopangolin.com
  * Description:       React boilerplate for WordPress plugins
  * Version:           1.0.2
- * Author:            pangolin
- * Author URI:        https://gopangolin.com
+ * Author:            janisivanoov
  * Text Domain:       wp-reactivate
  * License:           GPL-3.0
  * License URI:       https://www.gnu.org/licenses/gpl-3.0.txt
