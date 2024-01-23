@@ -210,11 +210,4 @@ We have found this utility covers most of our use cases. If you are looking for 
 | [Webpack](http://webpack.js.org) | For bundling our JavaScript assets. |
 | [ESLint](http://eslint.org/)| Pluggable linting utility for JavaScript and JSX  |
 
-The boilerplate has been updated to use PHP **namespaces and autoloading**. Please see Tom McFarlin's [article](https://tommcfarlin.com/namespaces-and-autoloading-2017/) on the subject if you are not familiar.
-
-## Tutorials
-
-Building a WordPress plugin with React - [Part 1](https://gopangolin.com/building-wordpress-plugin-with-react-part-1/), [Part 2](https://gopangolin.com/building-wordpress-plugin-with-react-part-2/)
-
-## Credits
-*Made by [Pangolin](https://gopangolin.com)*
+The boilerplate has been updated to use PHP **namespaces and autoloading**.
